@@ -1,3 +1,12 @@
+# [4.0.0-rc09-collinc777](https://github.com/doublesymmetry/react-native-track-player/compare/v4.0.0-rc08...v4.0.0-rc09-collinc777) (2023-09-14)
+
+
+### Bug Fixes
+
+* useIsPlaying hook does not cover 'none' state ([#2125](https://github.com/doublesymmetry/react-native-track-player/issues/2125)) ([1a6bc5b](https://github.com/doublesymmetry/react-native-track-player/commit/1a6bc5b54503e57537f44fa5e5c025e177abb154))
+
+
+
 # [4.0.0-rc08](https://github.com/doublesymmetry/react-native-track-player/compare/v4.0.0-rc07...v4.0.0-rc08) (2023-09-07)
 
 * **RN:** Undeprecate updateNowPlayingMetadata
