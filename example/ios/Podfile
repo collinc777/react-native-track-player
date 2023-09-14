@@ -22,6 +22,8 @@ if linkage != nil
   use_frameworks! :linkage => linkage.to_sym
 end
 
+pod 'SwiftAudioEx', :git => 'https://github.com/collinc777/SwiftAudioEx.git', :branch => 'main'
+
 target 'RNTPExample' do
   config = use_native_modules!
 
